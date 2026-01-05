@@ -738,13 +738,13 @@
         <t id="skill_no_skill_upgradable"><bad><idesc>동료</idesc>에게 강화할 수 있는 기술이 없습니다.</bad></t>
         <t id="unlock_class"><b>::name::</b> 전문화 배우기</t>
         <t id="preview_unlock_class">전문화 미리 보기</t>
-        <t id="codex_need_restored">손상된 고대인의 고문서입니다. <img src="item/Lectern"/><b>강단</b>을 이용하여 복구할 수 있습니다.</t>
+        <t id="codex_need_restored">손상된 고대인의 고문서입니다. <img src="item/Lectern"/><b>연구단</b>을 이용하여 복구할 수 있습니다.</t>
         <t id="codex_locked_desc">고대인의 고문서는 다음 <b>룬</b>을 배워야만 판독할 수 있습니다:</t>
-        <t id="codex_can_be_unlocked">고대인의 고문서는 <img src="item/Lectern"/><b>강단</b>에서 판독할 수 있습니다.</t>
+        <t id="codex_can_be_unlocked">고대인의 고문서는 <img src="item/Lectern"/><b>연구단</b>에서 판독할 수 있습니다.</t>
         <t id="codex_unlocked_desc">고대인의 고문서에서 발췌한 다음 내용을 판독했습니다:</t>
-        <t id="page_need_restored">손상된 일지입니다. <img src="item/Lectern"/><b>강단</b>을 이용하여 복구할 수 있습니다.</t>
+        <t id="page_need_restored">손상된 일지입니다. <img src="item/Lectern"/><b>연구단</b>을 이용하여 복구할 수 있습니다.</t>
         <t id="page_locked_desc">일지는 다음 <b>룬</b>을 배워야만 판독할 수 있습니다:</t>
-        <t id="page_can_be_unlocked">일지는 <img src="item/Lectern"/><b>강단</b>에서 판독할 수 있습니다.</t>
+        <t id="page_can_be_unlocked">일지는 <img src="item/Lectern"/><b>연구단</b>에서 판독할 수 있습니다.</t>
         <t id="page_unlocked_desc">일지에서 다음 인용구를 판독했습니다:</t>
         <t id="rune_desc">고대인의 룬에 관한 지식을 더 쌓았습니다. 이 룬은 <b>::word::</b>(이)라는 단어를 형상화한 것입니다.</t>
         <t id="recipe_food">제조법: ::name::</t>
