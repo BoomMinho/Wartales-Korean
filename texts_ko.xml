@@ -347,7 +347,7 @@
             <t id="passive">지속</t>
             <t id="injury">부상</t>
             <t id="immediate">즉시</t>
-            <t id="str_attrib">( 근력 )</t>
+            <t id="str_attrib">( 힘 )</t>
             <t id="dex_attrib">( 민첩 )</t>
         </g>
         <g id="modeName">
@@ -778,7 +778,7 @@
             <t id="skill_untilrest">다음 휴식까지 지속 기술</t>
         </g>
         <t id="dialog_rest">휴식을 취하면 부대가 원기를 되찾고 <ap>::ap::</ap>을(를) 회복할 수 있습니다.</t>
-        <t id="dialog_sing">노래를 불러 내 안의 음유시인이 빛나게 해 보세요.</t>
+        <t id="dialog_sing">노래를 불러 내 안의 음유 시인이 빛나게 해 보세요.</t>
         <t id="recruit_announce">신병을 모집하고자 결원 공고를 게시합니다.</t>
         <t id="dialog_heal_injuries">동료의 작은 상처를 모두 치유합니다.</t>
         <t id="dialog_heal_prisoners_injuries">포로의 작은 상처를 모두 치유합니다.</t>
@@ -1222,7 +1222,7 @@
         <t id="grimoire_need_recipe">제조법이 필요합니다.</t>
         <t id="grimoire_need_knowledge">지식 포인트가 필요합니다.</t>
         <t id="grimoire_need_setting">지역 시나리오를 완료한 후 이용할 수 있습니다.</t>
-        <t id="grimoire_need_city_forge">마을 대장간에서 이용할 수 있습니다.</t>
+        <t id="grimoire_need_city_forge">마을 제련소에서 이용할 수 있습니다.</t>
         <t id="grimoire_unlock_recipe">기록서의 새로운 제조법:</t>
         <t id="grimoire_confirm_learn"><img src="/item/::icon::"/> ::name::을(를) 배우시겠습니까?</t>
         <t id="grimoire_page_number">::current::/::max::페이지</t>
@@ -1586,7 +1586,7 @@
             <t id="cost">결원 공고 비용: <gold>::value::</gold></t>
         </g>
         <t id="not_enough_item"><img src="item/::item::"/>::name::이(가) 부족합니다.</t>
-        <t id="tip_missing_raw_materials">마을 대장간으로 가면 살 수 있습니다.</t>
+        <t id="tip_missing_raw_materials">마을 제련소로 가면 살 수 있습니다.</t>
         <t id="no_salary_due">동료들에게 지급해야 할 급여가 없습니다.</t>
         <t id="salary_due">아직 동료들에게 지급해야 할 급여가 남아 있습니다.</t>
         <t id="no_leader">지도자 없음</t>
