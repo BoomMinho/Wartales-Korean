@@ -1543,12 +1543,12 @@
         <t id="hideout_group_desc">방어가 탄탄한 은신처입니다. 습격을 감행하기 전에 먼저 약화하는 것이 좋습니다! 은신처에 사는 사람들은 아마 그 영역을 돌아다니고 있을 겁니다.</t>
         <t id="hideout_groups_still_alive">지역에 아직도 강도단이 몇 개 더 있습니다. 놈들을 찾아 모두 없애면 이 소굴이 약해집니다!</t>
         <t id="hideout_done_group_desc">은신처가 곧 무너지려 합니다. 최종 습격을 감행합시다!</t>
-        <t id="ambush_roaming">매복이다!</t>
-        <t id="ambush_roaming_desc">방금 동료들의 매복 공격에 당한 부대입니다. 동료들이 싸움에서 유리해집니다.</t>
-        <t id="attack_surprise_roaming">매복이다!</t>
-        <t id="attack_surprise_roaming_desc">동료들이 방금 대상을 매복 공격한 덕분에 싸움에서 유리해 집니다.</t>
+        <t id="ambush_roaming">기습!</t>
+        <t id="ambush_roaming_desc">방금 동료들의 매복 공격에 당한 부대입니다. 동료들이 전투에서 유리함을 받습니다.</t>
+        <t id="attack_surprise_roaming">기습!</t>
+        <t id="attack_surprise_roaming_desc">매복한 상태에서 대상을 기습한 덕분에 전투에서 유리함을 받습니다.</t>
         <t id="attack_surprise_roaming_dark_forest">어둠 속에서 공격받았습니다!</t>
-        <t id="attack_surprise_roaming_dark_forest_desc">동료들이 어둠 속에서 기습당해서, 전투에서 불이익을 받습니다.</t>
+        <t id="attack_surprise_roaming_dark_forest_desc">동료들이 어둠 속에서 기습당해서, 전투에서 불리함 받습니다.</t>
         <t id="merchant_trade">거래</t>
         <t id="due_salary_label">지급할 급여:</t>
         <g id="city">
