@@ -60,7 +60,7 @@
         <t id="escape_chance">다음 휴식 동안 도망 가능성:</t>
         <t id="none"><good>없음</good></t>
         <t id="low"><good>낮음</good></t>
-        <t id="medium"><warn>보통</warn></t>
+        <t id="medium"><warn>중간</warn></t>
         <t id="high"><bad>높음</bad></t>
     </g>
     <g id="happy_bonus">
