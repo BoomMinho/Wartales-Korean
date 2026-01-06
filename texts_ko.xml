@@ -25,12 +25,12 @@
         <t id="days_future">::days::일 후</t>
     </g>
     <g id="trait_levels">
-        <t _id="dbutant">신입</t>
+        <t _id="dbutant">입문자</t>
         <t _id="novice">초보자</t>
-        <t _id="apprenti">수습생</t>
+        <t _id="apprenti">견습생</t>
         <t _id="confirm">숙련자</t>
-        <t _id="compagnon">기능장</t>
-        <t _id="matre">대가</t>
+        <t _id="compagnon">장인</t>
+        <t _id="matre">거장</t>
     </g>
     <g id="unit_info">
         <t id="defense">방어</t>
