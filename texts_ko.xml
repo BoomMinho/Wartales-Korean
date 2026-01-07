@@ -596,7 +596,7 @@
         <t id="gather_def_action">집어 들기</t>
         <t id="recruit_action">모집</t>
         <t id="recruit_cost">::cost::(으)로 고용</t>
-        <t id="dialog_requires">::cost::을(를) 들어야</t>
+        <t id="dialog_requires">::cost:: 필요</t>
         <t id="dialog_trait_cost">::name::이(가) <trait>::trait::</trait> 특성을 잃습니다</t>
         <t id="dialog_trait_cost_both">::unit_name::와(과) ::target_name::이(가) <trait>::trait::</trait> 특성을 잃습니다.</t>
         <t id="dialog_wanted"><bad><img src="icon/Suspicion"/> +::range::</bad>에 수배됨</t>
@@ -803,10 +803,10 @@
         </g>
         <g id="relation">
             <t id="gain_with">::name::와(과) ::value:: 관계입니다.</t>
-            <t id="gain_group">::value:: 부대 전체와의 관계입니다.</t>
+            <t id="gain_group">부대 전체와의 관계 ::value::</t>
             <t id="gain_group_percent">::value:: 근처 동료와의 관계입니다.</t>
             <t id="gain_group_best">높이 평가하는 동료와 ::value:: 관계입니다.</t>
-            <t id="gain_companion">동료와 ::value:: 관계입니다.</t>
+            <t id="gain_companion">동료와 관계 ::value::</t>
             <t id="gain_random_with">::name::(와)과의 관계에 영향을 미칩니다.</t>
             <t id="gain_random_group">부대 전체와의 관계에 영향을 미칩니다.</t>
             <t id="gain_random_group_percent">근처 동료와의 관계에 영향을 미칩니다.</t>
