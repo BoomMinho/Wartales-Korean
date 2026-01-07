@@ -1,2 +1,2 @@
-New-Item -ItemType SymbolicLink -Path "D:\SteamLibrary\steamapps\common\Wartales\export_ko.xml" -Target "D:\BG3\vscode\Wartales-Korean\export_ko.xml"
-New-Item -ItemType SymbolicLink -Path "D:\SteamLibrary\steamapps\common\Wartales\texts_ko.xml" -Target "D:\BG3\vscode\Wartales-Korean\texts_ko.xml"
+New-Item -ItemType SymbolicLink -Path "D:\SteamLibrary\steamapps\common\Wartales\export_ko.xml" -Target "D:\Wartales\Wartales-Korean\export_ko.xml"
+New-Item -ItemType SymbolicLink -Path "D:\SteamLibrary\steamapps\common\Wartales\texts_ko.xml" -Target "D:\Wartales\Wartales-Korean\texts_ko.xml"
