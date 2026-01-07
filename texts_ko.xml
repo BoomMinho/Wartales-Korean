@@ -698,8 +698,8 @@
         <t id="use_heal_remedy">[RMB] 부상 치료</t>
         <t id="action_assign_armor_layer">[RMB] 갑옷에 판 추가</t>
         <t id="action_assign_helmet_seal">[RMB] 투구에 인장 찍기</t>
-        <t id="trade_log_buy"><small>::when:: </small> <img src="item/::icon::"/><b> ::name:: </b><small>::qty::</small>개를 ::where::에서 <gold>::price::</gold>에 <good>구매</good></t>
-        <t id="trade_log_sell"><small>::when:: </small> <img src="item/::icon::"/><b> ::name:: </b><small>::qty::</small>개를 ::where::에게 <gold>::price::</gold>에 <bad>판매</bad></t>
+        <t id="trade_log_buy"> <small>::when:: </small>, <img src="item/::icon::"/><b> ::name:: </b>를 ::where::에서 개당 <gold>::price::</gold>에 <good><small>::qty::</small>개 구매</good></t>
+        <t id="trade_log_sell"><small>::when:: </small>, <img src="item/::icon::"/><b> ::name:: </b>를 ::where::에서 개당 <gold>::price::</gold>에 <bad><small>::qty::</small>개 판매</bad></t>
         <t id="wanted_title">수배</t>
         <t id="wanted_status_progress">현재 수배 레벨: <b>::current::/::max::</b></t>
         <t id="wanted_status_active"><bad>다음 사유로 수배되었습니다:</bad></t>
