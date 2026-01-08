@@ -1,0 +1,1291 @@
+name:
+	name_prefix+name_suffix
+
+#BASIC NAMES
+
+#Male names
+name_prefix:
+	아드
+	안트
+	알드
+	아스트
+	아트
+	아이
+	보르
+	바르드
+	바르
+	베르트
+	부르
+	쿠드
+	코른
+	카스
+	담
+	드라크
+	디오
+	에드
+	엥
+	프랑
+	프레드
+	핀
+	프리
+	포르트
+	게르
+	고드
+	길
+	군
+	길
+	그림
+	헬드
+	허그
+	훔
+	헤르
+	잉
+	칼
+	켄
+	키르
+	람브
+	라오
+	라운
+	레
+	라우르
+	레오
+	루
+	로르
+	루드
+	마그
+	메네
+	멜
+	마인
+	마르트
+	마르크
+	문
+	네드
+	오드
+	오스트
+	오트
+	펠
+	페르
+	페리[0.5]
+	필
+	라그
+	란드
+	라
+	레기[0.5]
+	라인[0.5]
+	렌
+	레인[0.5]
+	릭
+	로그
+	롤
+	롬
+	로트
+	산트
+	산드
+	셉
+	세르
+	십
+	지크[0.5]
+	시그[0.5]
+	신
+	스테
+	타우르
+	테르
+	타르
+	테오
+	테르
+	티브
+	티에
+	틴
+	우브
+	울
+	운
+	우르브
+	발드
+	반
+	빈
+	비드
+	불트
+	발트
+	반트
+	바르
+	윔
+
+
+name_suffix:
+	name_suffix_c
+	name_suffix_v
+	name_suffix_o
+
+name_suffix_c:
+	드렐
+	라인
+	홀
+	그
+	로트
+	조스
+	프라에드
+	프라에
+	프라인
+	프라이
+	프라에스
+	테스
+	스메
+	하르드
+	토스
+	트
+
+name_suffix_v:
+	이안
+	아노르
+	이논
+	에날드
+	에온
+	올트
+	아르드
+	에우스
+	아르
+	에르트
+	이크
+	이크
+	운
+
+name_suffix_o:
+	릭
+	리
+
+#female names
+name_f:
+	name_fprefix+name_fsuffix
+	
+
+name_fprefix:
+	아델
+	아메
+	베네
+	베아
+	베르
+	베스
+	카스
+	세시
+	셀레
+	세프
+	도
+	엘
+	엘렌
+	엘리
+	에우리
+	에브
+	프레네
+	가브
+	갈
+	지즈
+	하르
+	헬레
+	헬로
+	이드
+	이사
+	이소
+	조아
+	카르
+	라우
+	레오
+	리르
+	마르
+	마르그
+	마르트
+	멜리
+	로스
+	카스
+	키트
+	미
+	사르
+	신
+
+name_fsuffix:
+	name_fsuffix_c
+	name_fsuffix_v
+
+name_fsuffix_c:
+	트리스
+	트릭스
+	니에
+	리에
+	을데
+	테아
+	나
+	트
+	곤데
+	벨
+	린
+	네
+	라
+	네
+	시아
+	시에
+	시아
+	리에
+	리안네
+	간네
+
+name_fsuffix_v:
+	이아
+	이네
+	이스
+	이즈
+	이에
+	안데
+	아
+	에트
+	엘
+	이스
+	엘
+	에스
+	엘리스
+	이나
+	이즈
+
+
+#EDORAN
+
+#male names
+
+nameEdoran_m:
+	nameEdoran_mprefix+nameEdoran_msuffix
+
+nameEdoran_mprefix:
+	메
+	레
+	마르
+	오드르
+	오드
+	아케르
+	카스
+	로
+	줄
+	케르
+	티베
+	멘
+	아피
+	도미
+	다니
+	에미
+	엘리
+	엘
+	에우테
+	플라브
+	가
+	헤크
+	헤르
+	헤라
+	이브
+	줄
+	유스트
+	준
+	레오
+	메그
+	마르
+	메네
+	놈
+	올
+	피
+	파트르
+	피에
+	퀜
+	레미
+	셉트
+	셀
+	시트
+	시르
+	테
+	티
+	텔레
+	비
+	비스
+	옥트
+
+nameEdoran_msuffix:
+	nameEdoran_msuffix_c
+	nameEdoran_msuffix_v
+
+nameEdoran_msuffix_c:
+	리스
+	리스
+	메
+	케네
+	투스
+	테스
+	비오스
+	베
+	키우스
+
+nameEdoran_msuffix_v:
+	이메
+	이우스
+	아에스테
+	이오스
+	이오르
+	이엔
+	오스
+	안드레
+	앙스
+	오르
+
+#female names
+nameEdoran_f:
+	nameEdoran_fprefix+nameEdoran_fsuffix
+
+nameEdoran_fprefix:
+	아드르
+	아이
+	알레
+	벨
+	셀
+	다나
+	다니
+	클라르
+	엘
+	에라
+	에우
+	라
+	기슬
+	멜
+	멜라
+	팔
+	옥트
+	줄
+	테
+	텔
+	테
+	로에
+	마르
+	셉트
+	셀
+	시
+
+nameEdoran_fsuffix:
+	nameEdoran_fsuffix_c
+	nameEdoran_fsuffix_v
+
+nameEdoran_fsuffix_c:
+	사
+	리아
+	타
+	시아
+	페아
+	스타
+	네
+
+nameEdoran_fsuffix_v:
+	에이스
+	에오르
+	아
+	에아
+	에스테
+	이세
+	오레
+	이사
+	이디스
+	이아
+	아네
+
+
+#HARAG
+#male names
+
+nameHarag_m:
+	nameHarag_mprefix+nameHarag_msuffix
+
+nameHarag_mprefix:
+	아오
+	카
+	브레
+	코
+	오그
+	타르
+	케른
+	넴
+	노드
+	모크
+	벨
+	다그
+	모
+	신
+	신트
+	보스
+	세그
+	타이거
+	베르
+	오드르
+	아이
+	바르
+	단
+	하르
+	그레
+	가
+	레
+	레그
+	마우드
+	파로
+	비스
+	우에
+	크나
+	타메
+	루그
+	파르
+	엔도
+
+nameHarag_msuffix:
+	nameHarag_msuffix_c
+	nameHarag_msuffix_v
+
+nameHarag_msuffix_c:
+	드
+	단
+	스토스
+	난
+	헤
+	세네
+	그에
+	그레
+	노스
+	쎄
+	노스
+	본
+	란
+	로스
+	노스
+	기오스
+
+nameHarag_msuffix_v:
+	이오스
+	에스
+	오스
+	엔스
+	온스
+	에그
+	우르
+	이스
+	우스
+
+#female names
+
+nameHarag_f:
+	nameHarag_fprefix+nameHarag_fsuffix
+
+nameHarag_fprefix:
+	아브렉스
+	아이
+	아이
+	안드
+	안데
+	아브르
+	베데
+	베그
+	보드
+	브리
+	브라이그
+	브론
+	카이
+	칼
+	캄
+	단
+	도
+	에르
+	페드
+	핀
+	헨
+	이스
+	레리
+	루브
+	루에
+	마아브
+	만
+	마우드
+	마우르
+	네브
+	온
+	로이
+	스케
+	세누
+	수에
+	우엘
+
+nameHarag_fsuffix:
+	nameHarag_fsuffix_c
+	nameHarag_fsuffix_v
+
+nameHarag_fsuffix_c:
+	스테
+	나
+	론
+	벤
+	웬
+	간
+	반
+	바
+	다
+	리그
+	마
+	사
+	기아
+
+nameHarag_fsuffix_v:
+	아
+	이그
+	이드
+	에테스
+	엔
+	아스타
+	온
+	이사
+
+#Gosenberg
+
+#male names
+
+nameGosenberg_m:
+	nameGosenberg_mprefix+nameGosenberg_msuffix
+
+nameGosenberg_mprefix:
+	아델
+	아다
+	클레
+	게르
+	요르
+	예
+	로
+	루
+	이즈
+	가
+	오그
+	아른
+	후
+	디에
+	라인
+	베른
+	리드
+	렘
+	에그브
+	구스트
+	구
+	휴
+	리에
+	리
+	마르트
+	피에
+	엠
+	플로
+	이그
+	헤르
+	로에
+	바르트
+	주
+	카
+	헨트
+	클
+	로데
+	로베
+	스토
+	바
+
+nameGosenberg_msuffix:
+	nameGosenberg_msuffix_c
+	nameGosenberg_msuffix_v
+
+nameGosenberg_msuffix_c:
+	베르트
+	멘스
+	크
+	그
+	베르
+	거
+	거르트
+	고트
+	클레
+	예
+	이
+	톨드
+	오스
+	라스
+	스트
+
+nameGosenberg_msuffix_v:
+	엔스
+	올트
+	엔
+	안
+	아우드
+	에스
+	아르트
+	에릭
+	아브
+	에드
+
+# Female Names
+nameGosenberg_f:
+	nameGosenberg_fprefix+nameGosenberg_fsuffix
+
+nameGosenberg_fprefix:
+	아드
+	아델
+	알레
+	안
+	아리
+	베아
+	벳
+	클라스
+	코르
+	디에
+	엘시
+	에른
+	에른
+	펨
+	프레
+	게르트
+	그레
+	한
+	일
+	얀
+	요하
+	욜
+	율
+	카
+	클라
+	크리스트
+	렌
+	리에
+	마델
+	마그다
+	마르
+	메르
+	네
+	넬레
+	니엔
+	페트라
+	리
+	로스
+	사르
+	시에
+	티
+	줄
+
+nameGosenberg_fsuffix:
+	nameGosenberg_fsuffix_c[2]
+	nameGosenberg_fsuffix_v[2]
+	nameGosenberg_fsuffix_o[0.5]
+
+nameGosenberg_fsuffix_c:
+	디스
+	스카
+	네
+	타
+	베르테
+	테
+	다
+	디예
+	타
+	티예
+	그리트
+	케
+	그리드
+	카
+	벳
+	테
+	베
+
+nameGosenberg_fsuffix_v:
+	아
+	엘
+	에
+	이드
+	잇
+	이엑
+	엔
+	아
+	엣
+	에브
+
+nameGosenberg_fsuffix_o:
+	드레드
+	트레드
+	트루다
+
+#Alazar
+
+#male names
+
+nameAlazar_m:
+	nameAlazar_mprefix+nameAlazar_msuffix
+
+nameAlazar_mprefix:
+	아드
+	알
+	아른
+	브루
+	에르
+	풀
+	게이
+	그리
+	군트
+	구
+	하
+	유르
+	만
+	오트
+	롬
+	사
+	사르
+	시세
+	탄
+	토르
+	울
+	반
+	비
+	비드
+	울
+	빌
+	헤름
+	아이
+	담
+	고트
+	리트
+	소
+	실
+	하
+	빈
+
+nameAlazar_msuffix:
+	nameAlazar_msuffix_c
+	nameAlazar_msuffix_v
+
+nameAlazar_msuffix_c:
+	발트
+	베르트
+	가르트
+	발트
+	헴
+
+nameAlazar_msuffix_v:
+	울프
+	아르트
+	이드
+	오프
+	안
+	우스
+	에르트
+	이트
+	알크
+
+# Female Names
+nameAlazar_f:
+	nameAlazar_fprefix+nameAlazar_fsuffix
+
+nameAlazar_fprefix:
+	아델
+	알
+	알트
+	아마
+	바트
+	베르
+	브루
+	브룬
+	아이트
+	에름
+	에른
+	게르
+	구
+	하드브
+	헤드
+	힐
+	힐트
+	잉
+	이소
+	쿤
+	레
+	렌
+	리트
+	마
+	라데
+	스노
+	소
+	솜
+	토이
+	울
+	발
+	비
+	시그
+	크리에
+	엘
+	프란
+	헨
+	그레
+	메이
+	빌
+
+nameAlazar_fsuffix:
+	nameAlazar_fsuffix_c[2]
+	nameAlazar_fsuffix_v[2]
+	nameAlazar_fsuffix_o[0.5]
+
+nameAlazar_fsuffix_c:
+	빈트
+	곤트
+	라
+	그리드
+	솔트
+	데
+	라
+	게
+	가르트
+	린트
+	틸트
+	다
+	테
+	카
+
+nameAlazar_fsuffix_v:
+	올트
+	이그
+	아
+	아르
+
+nameAlazar_fsuffix_o:
+	메르
+	힐트
+	곤트
+	네
+	아
+	테
+
+
+#Belerion_1 = Belerian
+
+#male names
+
+nameBelerion_m:
+	nameBelerion_mprefix+nameBelerion_msuffix
+
+nameBelerion_mprefix:
+	아이
+	알드
+	아르
+	바르
+	벤
+	브렌
+	카르
+	콘
+	단
+	드라크
+	둔
+	에크
+	에오
+	핀
+	프라
+	가엘
+	고드
+	길
+	일
+	키스
+	켄
+	키르
+	라운
+	레오
+	마엘
+	마그
+	문
+	오드
+	오트
+	레기
+	로그
+	론
+	타르
+	데
+	반
+	와이
+	아이
+
+nameBelerion_msuffix:
+	nameBelerion_msuffix_c
+	nameBelerion_msuffix_v
+
+nameBelerion_msuffix_c:
+	란
+	단
+	쎈
+	세드
+	드리
+	트라드
+	라이크
+	간
+	보드
+
+nameBelerion_msuffix_v:
+	안
+	에스트
+	엔
+	이그
+	에그
+	알드
+	에스
+	아크
+	오크
+
+
+
+# Female Names
+nameBelerion_f:
+	nameBelerion_fprefix+nameBelerion_fsuffix
+
+nameBelerion_fprefix:
+	시르
+	데이
+	간
+	카스
+	캣
+	모이
+	시
+	마르
+	메르
+	베스
+	알
+	안
+	벳
+	브리
+	단
+	덴
+	에미
+	엔
+	피
+	기
+	게르
+	헬
+	이스
+	제스
+	케르
+	키스
+	란
+	렌
+	레스
+	마트
+	닌
+	온
+	페트르
+	리트
+	릿
+	론
+	세드
+	시르
+	테름
+	탄
+	빅
+	세프
+	조안
+	마르그
+	마에브
+	카트르
+
+nameBelerion_fsuffix:
+	nameBelerion_fsuffix_c[2]
+	nameBelerion_fsuffix_v[2]
+	nameBelerion_fsuffix_o[0.5]
+
+nameBelerion_fsuffix_c:
+	라
+	린
+	라
+	느라
+	린
+	윈
+	게일
+	이드
+	린
+	멜
+	드라
+
+nameBelerion_fsuffix_v:
+	아
+	이그
+	에이스
+	엘라
+	일
+	이즈
+	엔데
+	에스
+	아
+	이스
+	엘리스
+	엔
+
+nameBelerion_fsuffix_o:
+	아
+
+
+#Ihraa_1 = Irhian
+
+#male names
+
+nameIhraa_m:
+	nameIhraa_mprefix+nameIhraa_msuffix
+
+nameIhraa_mprefix:
+	아드
+	아크
+	암
+	안
+	바
+	벨
+	샤
+	달
+	제
+	두
+	에
+	엠
+	파
+	페
+	페르
+	하
+	히
+	이르
+	케르
+	콘
+	오스
+	세드
+	셰
+	가
+	호우
+	인
+	자
+	자브
+	임
+	카
+	바드
+	메르
+	마즈
+	노우
+	키
+	이스
+	우르
+
+nameIhraa_msuffix:
+	nameIhraa_msuffix_c
+	nameIhraa_msuffix_v
+
+nameIhraa_msuffix_c:
+	네
+	티
+	렐
+	헤드
+	크테스
+	티
+	수
+	리스
+	시르
+	드
+	켐
+	데스
+	파르
+	젠
+	르
+
+nameIhraa_msuffix_v:
+	우르
+	아드
+	우
+	에이
+	운
+	엘
+	에스
+	엠
+	아브
+	암
+
+# Female Names
+nameIhraa_f:
+	nameIhraa_fprefix+nameIhraa_fsuffix
+
+nameIhraa_fprefix:
+	아바
+	아히
+	알
+	암스
+	바스
+	베
+	벨
+	카
+	차
+	신
+	다
+	단
+	엠
+	파
+	하
+	헤크
+	인
+	이르
+	젤
+	카
+	카
+	키
+	라키
+	린
+	마
+	미르
+	닌
+	우아
+	사르
+	타
+	토우
+	야스
+	자흐
+
+nameIhraa_fsuffix:
+	nameIhraa_fsuffix_c[2]
+	nameIhraa_fsuffix_v[2]
+	nameIhraa_fsuffix_o[0.5]
+
+nameIhraa_fsuffix_c:
+	히트
+	질
+	리트
+	나
+	라
+	라흐
+	렛
+	샤르
+	사
+	셋
+
+nameIhraa_fsuffix_v:
+	아
+	다
+	에트
+	이아
+	이시스
+	이야
+	운
+	이르
+
+nameIhraa_fsuffix_o:
+	셋
+	순
+	파
+	나
+	네
+	테트
+
+
+#Skelmar_1 
+
+#male names
+
+nameSkelmar_m:
+	nameSkelmar_mprefix+nameSkelmar_msuffix
+
+nameSkelmar_mprefix:
+	스브
+	아드
+	벤
+	브리
+	다
+	에르
+	핀
+	하크
+	하르
+	하
+	헬
+	휠
+	이브
+	요르
+	레
+	모드
+	올
+	올라
+	시그
+	신
+	스니
+	스티르
+	토르
+	시
+	발
+	비드
+	비스브
+
+nameSkelmar_msuffix:
+	nameSkelmar_msuffix_c
+	nameSkelmar_msuffix_v
+	nameSkelmar_fsuffix_o[0.2]
+
+nameSkelmar_msuffix_c:
+	발드
+	릭
+	기
+	드르
+	켈
+	미르
+
+nameSkelmar_msuffix_v:
+	알드
+	운드
+	엔
+	안
+	아르
+	에이프
+	릭
+	에르
+
+nameSkelmar_fsuffix_o:
+	기
+
+
+
+# Female Names
+nameSkelmar_f:
+	nameSkelmar_fprefix+nameSkelmar_fsuffix
+
+nameSkelmar_fprefix:
+	앨프
+	알브
+	아스트르
+	베
+	보
+	드리
+	드리브
+	군
+	기
+	헤스
+	라그
+	로스크
+	시그
+	신
+	시
+	바
+	반
+	베
+	비스
+	이르
+	이르스
+	다그
+
+nameSkelmar_fsuffix:
+	nameSkelmar_fsuffix_c[2]
+	nameSkelmar_fsuffix_v[2]
+
+nameSkelmar_fsuffix_c:
+	디아
+	타
+	프리드
+	그리드
+	라
+	비오르그
+	데
+	힐드
+	다
+	가
+
+nameSkelmar_fsuffix_v:
+	일
+	일드
+	일드르
+	아
+	에이드
+	아
