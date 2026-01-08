@@ -593,7 +593,7 @@
         <t id="gather_item">::name::
  ::infos::
  ::button:: ::action::</t>
-        <t id="gather_def_action">집어 들기</t>
+        <t id="gather_def_action">채집하기</t>
         <t id="recruit_action">모집</t>
         <t id="recruit_cost">::cost::(으)로 고용</t>
         <t id="dialog_requires">::cost:: 필요</t>
