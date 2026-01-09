@@ -989,9 +989,9 @@
         <t id="drop_item"><b>::name::</b> ::count::개를 떨어뜨리시겠습니까?</t>
         <t id="retreat_fight">퇴각 신호를 보내고 전투를 포기하시겠습니까?</t>
         <t id="repair_action"><img src="/item/RawMaterials"/>::count::개 모두 수리</t>
-        <t id="repair_armor">::qty::개를 사용하여 갑옷을 수리하시겠습니까?</t>
-        <t id="repair_all_armors">::qty::(으)로 모든 갑옷을 수리하시겠습니까?</t>
-        <t id="cure_all_injuries">::qty::(으)로 모든 상처를 치료하시겠습니까?</t>
+        <t id="repair_armor">::qty::을(를) 사용하여 갑옷을 수리하시겠습니까?</t>
+        <t id="repair_all_armors">::qty::을(를) 사용하여 모든 갑옷을 수리하시겠습니까?</t>
+        <t id="cure_all_injuries">::qty::을(를) 사용하여 모든 상처를 치료하시겠습니까?</t>
         <t id="unit_unchain"><b>::name::</b>을(를) 풀어주시겠습니까?</t>
         <t id="unit_chain"><b>::name::</b>을(를) 포로로 잡으시겠습니까?
 <small>(분명히 배신감을 느낄 겁니다...)</small></t>
@@ -1038,8 +1038,8 @@
         <t id="clear_armor_slots">갑옷에서 판을 제거하시겠습니까?</t>
         <t id="clear_helmet_seal">투구에서 인장을 제거하시겠습니까?</t>
         <t id="destroy_armor_slots_warning">처리하는 과정에서 파괴됩니다.</t>
-        <t id="item_cost">::cost::개를 사용하시겠습니까?</t>
-        <t id="dialog_cost">::cost::개를 사용하시겠습니까?</t>
+        <t id="item_cost">::cost:: 을(를) 사용하시겠습니까?</t>
+        <t id="dialog_cost">::cost:: 을(를) 사용하시겠습니까?</t>
         <t id="dialog_action"><img src="icon/::act::"/>::text::을(를) 확인하시겠습니까?</t>
         <t id="exit_ruin_no_light"><img src="icon/RuinsLight"/><b>빛</b>이 없습니다. 탐험을 계속하려면 빛이 필요합니다!</t>
         <t id="ruins_tired_warning"><bad>동료들이 지쳤습니다!</bad>
