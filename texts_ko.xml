@@ -1679,8 +1679,8 @@
             <t id="title">주둔지</t>
             <t id="free_slot">빈자리</t>
             <t id="repatriate_unit_confirm"><b>::name::</b>을(를) 회수하시겠습니까?</t>
-            <t id="leave_companion">동료 버리기</t>
-            <t id="add_companion">부대에 추가</t>
+            <t id="leave_companion">동료 대기시키기</t>
+            <t id="add_companion">부대에 복귀시키기</t>
             <t id="manage_garnison">주둔지 관리</t>
         </g>
         <g id="boat">
