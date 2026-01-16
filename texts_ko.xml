@@ -760,7 +760,7 @@
         <t id="mutation_requires_werwolf">[Werewolf] <idesc>동료</idesc>를 조사하고 해당 기술을 배웁니다.</t>
         <t id="manual_already_learnt"><idesc>동료</idesc>가 이미 배운 기술입니다.</t>
         <t id="strategy_name">전략: ::strategyName::</t>
-        <t id="strategy_desc">내용을 잃고 전략 탁자에서 사용할 새 전략을 배웁니다.</t>
+        <t id="strategy_desc">내용을 읽고 전략 탁자에서 사용할 새 전략을 배웁니다.</t>
         <t id="job_assigned"><b><img src="/trait/::icon::"/>::kind:: 지정됨: </b></t>
         <t id="rank_assigned"><b> ::kind:: 지정됨: </b></t>
         <t id="ranked_assigned"><b>높은 등급의 동료 지정됨: </b></t>
