@@ -2766,7 +2766,7 @@
     </g>
     <g id="systemic_goals">
         <t id="defender_killed">해방한 위치</t>
-        <t id="defended_place">방어한 위치</t>
+        <t id="defended_place">탈환할 위치</t>
         <t id="rats">파괴한 소굴</t>
         <t id="ruins">탐험한 폐허</t>
     </g>
